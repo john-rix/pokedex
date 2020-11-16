@@ -1,3 +1,3 @@
 # pokedex
 
-[View in browser] (https://johnrix.dev/pokedex)
+[View in browser](https://johnrix.dev/pokedex)
